@@ -13,11 +13,12 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello everyone 👋 , I'm Rahman!
-Currently working as QA Engineer At PT Barrans Global Mandiri, Having knowledge to create web automation using Cucumber Selenium Java, and Cypress. Create mobile(Android) automation using Cucumber Appium Javascript. API Testing using Postman. And having knowledge about Project Management Tools such a Jira..
+Currently working as QA Engineer At PT Barrans Global Mandiri, Having knowledge to create web automation using Cucumber Selenium Java, web driver io, and Cypress. Create mobile(Android) automation using web driver io Javascript. API Testing using Postman. And having knowledge about Project Management Tools such a Jira..
 
 # Table of contents
 <!--ts-->
    * [Tools](#tools)
+   * [Stats](#stats)
    * [Connect](#connect)
    * [Contact me](#contact-me)
 <!--te-->
@@ -38,7 +39,13 @@ Currently working as QA Engineer At PT Barrans Global Mandiri, Having knowledge 
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJIDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 
-
+## 📈Stats
+<p align="left">
+<a href="https://github.com/wisnuwm">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=rahmansopiann&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=rahmansopiann&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+  
 ## 🔗Connect
 <p>
     <a href="https://www.linkedin.com/in/rahmansopiann" target="blank"><img src="https://img.shields.io/badge/-linkedin-181717?style=for-the-badge&logo=linkedin" /></a>
@@ -48,5 +55,5 @@ Currently working as QA Engineer At PT Barrans Global Mandiri, Having knowledge 
 
 ### 📝Contact me!
 <p>
-    <a href="mailto: rahmansopian6@gmail.com" target="blank"><img src="https://img.shields.io/badge/-gmail-181717?style=for-the-badge&logo=gmail" /></a>
+    <a href="mailto: rahmansopian6@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
