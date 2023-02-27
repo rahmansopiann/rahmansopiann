@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello everyone 👋 , I'm Rahman!
-Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, and Cypress. Create mobile(Android) automation using Cucumber Appium Javascript. API Testing using Postman. And having knowledge about Project Management Tools such a Jira..
+Currently working as QA Engineer At PT Barrans Global Mandiri, Having knowledge to create web automation using Cucumber Selenium Java, and Cypress. Create mobile(Android) automation using Cucumber Appium Javascript. API Testing using Postman. And having knowledge about Project Management Tools such a Jira..
 
 # Table of contents
 <!--ts-->
