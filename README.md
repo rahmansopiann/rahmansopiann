@@ -60,6 +60,6 @@ Currently working as Software QA Engineer, Having knowledge to both Manual and A
 
 ### 📝Contact me!
 <p>
-    <a "Please click link bellow !!!" /></a>
+    Please click link bellow !!!
     <a href="mailto: rahmansopian6@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
