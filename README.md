@@ -41,6 +41,7 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 ![Cucumber](https://img.shields.io/badge/-cucumber-181717?style=for-the-badge&logo=cucumber)
 ![Cypress](https://img.shields.io/badge/-cypress-181717?style=for-the-badge&logo=cypress)
 ![WebdriverIO](https://img.shields.io/badge/-webdriverio-181717?style=for-the-badge&logo=webdriverIO)
+![Playwright](https://img.shields.io/badge/Playwright-45ba4b?style=for-the-badge&logo=Playwright&logoColor=white)
 ![Postman](https://img.shields.io/badge/-postman-181717?style=for-the-badge&logo=postman)
 ![Swagger](https://img.shields.io/badge/-swagger-181717?style=for-the-badge&logo=swagger)
 ![Serenity BDD](https://img.shields.io/badge/-serenitybdd-181717?style=for-the-badge&logo=serenitybdd)
