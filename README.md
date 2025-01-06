@@ -13,7 +13,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 # Hello everyone 👋 , I'm Rahman!
-Currently working as QA Engineer, Having knowledge to create web automation using Cucumber Selenium Java, WebdriverIO, and Cypress. Create mobile(Android) automation using WebdriverIO Javascript. API Testing using Postman and Swagger. And having knowledge about Project Management Tools such a Jira..
+Currently working as Software QA Engineer, Having knowledge to both Manual and Automation Testing using Cucumber Selenium Java, Cypress and Playwright Javascript/Typescript. Create mobile(Android) automation using WebdriverIO Javascript. API Testing using Postman and Swagger. And having knowledge about Project Management Tools like Jira, Trello, Tosca and Testing Management Tools like Qase.io..
 
 # Table of contents
 <!--ts-->
@@ -60,5 +60,6 @@ Currently working as QA Engineer, Having knowledge to create web automation usin
 
 ### 📝Contact me!
 <p>
+    <a "Please click link bellow !!!" /></a>
     <a href="mailto: rahmansopian6@gmail.com" target="blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
